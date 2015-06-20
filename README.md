@@ -5,7 +5,7 @@ It offers you one main class to extend and create your own recyler view adapter 
 
 #How to use
 
-GeneralRecyclerView contais  all the methods to work with List.
+GeneralRecyclerView contais  all the methods to work with a List.
 
 In your Adapter you just need to worry with your items, it means, 
 you need to implement your ViewHolder and render all the fields for your model. As example, we can create your
@@ -62,6 +62,3 @@ public class SampleListViewAdapter extends GeneralRecyclerViewAdapter<Sample> {
     }
 }
 ```
-
-#TODO
- - Create an adapter for other types, such as SortedList or HashMap.
