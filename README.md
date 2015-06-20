@@ -1,4 +1,4 @@
-# android-recyclerview-sample
+# AndroidGeneralRecyclerView
 Creating a GeneralRecyclerViewAdapter to be used on RecyclerViews
 
 #How to use
