@@ -1,5 +1,7 @@
 # AndroidGeneralRecyclerView
-Creating a GeneralRecyclerViewAdapter to be used on RecyclerViews
+Creating a RecyclerViewAdapter to prevent boilerplate code.
+
+This code offers you one main classes to extend and create your own recyler view adapter implementation.
 
 #How to use
 
