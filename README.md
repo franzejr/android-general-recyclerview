@@ -1,7 +1,7 @@
 # AndroidGeneralRecyclerView
 Creating a RecyclerViewAdapter to prevent boilerplate code.
 
-This code offers you one main classes to extend and create your own recyler view adapter implementation.
+This code offers you one main classes to extend and create your own recyler view adapter implementation. Based on [Renderers](https://github.com/pedrovgs/Renderers)
 
 #How to use
 
