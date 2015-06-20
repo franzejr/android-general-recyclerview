@@ -9,6 +9,8 @@ In your Adapter you just need to worry with your items, it means,
 you need to implement your ViewHolder and render all the fields for your model. As example, we can create your
 listViewAdapter as follows:
 
+As dependency view injection we're using ButterKnife, but you don't need to use that, you can implement that just using your findViewById methods.
+
 ```java
 public class SampleListViewAdapter extends GeneralRecyclerViewAdapter<Sample> {
 
@@ -58,3 +60,6 @@ public class SampleListViewAdapter extends GeneralRecyclerViewAdapter<Sample> {
     }
 }
 ```
+
+#TODO
+ - Create an adapter for other types, such as SortedList or HashMap.
