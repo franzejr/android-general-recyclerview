@@ -9,7 +9,7 @@ In your Adapter you just need to worry with your items, it means,
 you need to implement your ViewHolder and render all the fields for your model. As example, we can create your
 listViewAdapter as follows:
 
-```
+```java
 public class SampleListViewAdapter extends GeneralRecyclerViewAdapter<Sample> {
 
 
